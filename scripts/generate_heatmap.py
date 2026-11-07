@@ -163,9 +163,18 @@ def main():
     token = os.environ.get("GITHUB_TOKEN")
     username = os.environ.get("GITHUB_USERNAME", "madhavp14")
 
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    repo_root = os.path.dirname(script_dir)
+    img_dir = os.path.join(repo_root, "images")
+    os.makedirs(img_dir, exist_ok=True)
+    out = os.path.join(img_dir, "contrib-heatmap.svg")
+
     if not token:
+        if os.path.exists(out) and os.path.getsize(out) > 0:
+            print("⚠️  GITHUB_TOKEN not set — preserving existing contribution heatmap.", file=sys.stderr)
+            return
+
         print("⚠️  GITHUB_TOKEN not set — generating placeholder heatmap.", file=sys.stderr)
-        # Generate a placeholder with empty data
         from datetime import date
         today = date.today()
         weeks = []
@@ -189,12 +198,6 @@ def main():
         calendar = fetch_contributions(username, token)
 
     svg = generate_heatmap_svg(calendar)
-
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    repo_root = os.path.dirname(script_dir)
-    img_dir = os.path.join(repo_root, "images")
-    os.makedirs(img_dir, exist_ok=True)
-    out = os.path.join(img_dir, "contrib-heatmap.svg")
 
     with open(out, "w", encoding="utf-8") as f:
         f.write(svg)
