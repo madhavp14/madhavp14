@@ -6,9 +6,9 @@
   </a>
   <br>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=madhav-p-2005&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=madhavp14&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="Profile Views"/>
     &nbsp;
-    <img src="https://img.shields.io/github/followers/Madhav-P-2005?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/madhavp14?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b" alt="Followers"/>
   </p>
 </div>
 
@@ -50,7 +50,7 @@ print(me.current_focus())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Madhav-P-2005&theme=radical&margin-w=6&margin-h=6&column=6&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=madhavp14&theme=radical&margin-w=6&margin-h=6&column=6&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -61,10 +61,10 @@ print(me.current_focus())
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -111,60 +111,67 @@ print(me.current_focus())
 ## 📊 GitHub Stats
 
 <div align="center">
+  <!-- Contribution Heatmap Calendar -->
+  <img src="./images/contrib-heatmap.svg" width="95%" alt="Madhav's Contribution Calendar" />
+</div>
+
+<br>
+
+<div align="center">
   <!-- 1. Activity Graph (Full Width) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-P-2005&theme=highcontrast&bg_color=000000&color=C8FF00&line=2C682C&point=00FF04&area=true" width="95%" alt="Madhav's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavp14&theme=highcontrast&bg_color=000000&color=C8FF00&line=2C682C&point=00FF04&area=true" width="95%" alt="Madhav's GitHub Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- 2. Profile Details & 3. Streak Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhav-P-2005&theme=highcontrast&animation=draw" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavp14&theme=highcontrast&animation=draw" alt="Profile Details" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav-P-2005&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavp14&theme=highcontrast" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- 4. Top Languages by Repo & 5. Top Languages by Commit -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhav-P-2005&theme=highcontrast&animation=draw" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavp14&theme=highcontrast&animation=draw" alt="Top Languages by Repo" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhav-P-2005&theme=highcontrast&animation=draw" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavp14&theme=highcontrast&animation=draw" alt="Top Languages by Commit" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- 6. Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhav-P-2005&theme=highcontrast&animation=draw&utcOffset=0" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhavp14&theme=highcontrast&animation=draw&utcOffset=0" alt="Productive Time" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 [FinSathi — LLM Financial Advisory Engine](https://github.com/Madhav-P-2005/LLM_Powered-Financial-Service-ChatBot)
+### 🤖 [FinSathi — LLM Financial Advisory Engine](https://github.com/madhavp14/LLM_Powered-Financial-Service-ChatBot)
 > An intelligent financial query system built with dual-provider LLM orchestration (HuggingFace + OpenAI) for high availability, verifiable citations, and streaming responses.
 - **Architecture**: Asynchronous Flask REST backend decoupled with a React 18 / Tailwind frontend and CORS proxying.
 - **Tech Stack**: `Python` • `Flask` • `React` • `Tailwind CSS` • `OpenAI SDK` • `HuggingFace API`
-- **Links**: [📁 Source Repository](https://github.com/Madhav-P-2005/LLM_Powered-Financial-Service-ChatBot) &nbsp;|&nbsp; [🌐 Live Application](https://finsathi-chatbot-madhavp.vercel.app)
+- **Links**: [📁 Source Repository](https://github.com/madhavp14/LLM_Powered-Financial-Service-ChatBot) &nbsp;|&nbsp; [🌐 Live Application](https://finsathi-chatbot-madhavp.vercel.app)
 
 ---
 
-### 📝 [React Task Orchestrator](https://github.com/Madhav-P-2005/React.Js-ToDo-App)
+### 📝 [React Task Orchestrator](https://github.com/madhavp14/React.Js-ToDo-App)
 > High-throughput client-side task workspace engineered with modern React 19, zero-lag local persistence, and responsive scheduling.
 - **Architecture**: Modular component tree with custom state hooks, search filtering, and persistent localStorage schema.
 - **Tech Stack**: `React 19` • `Vite 7` • `Bootstrap 5` • `SCSS`
-- **Links**: [📁 Source Repository](https://github.com/Madhav-P-2005/React.Js-ToDo-App) &nbsp;|&nbsp; [🌐 Live Application](https://to-do-app-madhavp.vercel.app)
+- **Links**: [📁 Source Repository](https://github.com/madhavp14/React.Js-ToDo-App) &nbsp;|&nbsp; [🌐 Live Application](https://to-do-app-madhavp.vercel.app)
 
 ---
 
-### 🎮 [Algorithmic Tic-Tac-Toe State Engine](https://github.com/Madhav-P-2005/Tic-Tac-Toe)
+### 🎮 [Algorithmic Tic-Tac-Toe State Engine](https://github.com/madhavp14/Tic-Tac-Toe)
 > Zero-dependency game state engine featuring algorithmic single-player heuristics and interactive DOM event management.
 - **Architecture**: Coordinate matrix evaluation, stateful turn verification, and responsive CSS grid rendering.
 - **Tech Stack**: `JavaScript (ES6+)` • `HTML5` • `CSS3`
-- **Links**: [📁 Source Repository](https://github.com/Madhav-P-2005/Tic-Tac-Toe)
+- **Links**: [📁 Source Repository](https://github.com/madhavp14/Tic-Tac-Toe)
 
 ---
 
@@ -200,4 +207,7 @@ print(me.current_focus())
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d13,50:302b63,100:090d13&height=120&section=footer&text=Engineered+with+Discipline+%E2%9A%A1&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
   <br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=madhavp14&icon=6&color=7" alt="Visitor Count"/>
+  </a>
 </div>

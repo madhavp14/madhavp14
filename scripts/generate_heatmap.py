@@ -161,7 +161,7 @@ def generate_heatmap_svg(calendar: dict) -> str:
 
 def main():
     token = os.environ.get("GITHUB_TOKEN")
-    username = os.environ.get("GITHUB_USERNAME", "Madhav-P-2005")
+    username = os.environ.get("GITHUB_USERNAME", "madhavp14")
 
     if not token:
         print("⚠️  GITHUB_TOKEN not set — generating placeholder heatmap.", file=sys.stderr)
