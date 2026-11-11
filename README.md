@@ -103,6 +103,7 @@ print(me.current_focus())
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/bNdge/ne-46E3B7?style=for-the-badge&logo=netlify&logoColor=blackectId)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
@@ -187,6 +188,7 @@ print(me.current_focus())
 
 <div align="center">
   <p>
+     <a href="https://instagram.com/madhavp_14" target="_blank"> <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=White" alt="Instagram"/></a>
     <a href="https://www.linkedin.com/in/madhav-p-156b9b290" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &nbsp;
     <a href="https://leetcode.com/u/madhavp_14/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
