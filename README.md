@@ -188,8 +188,9 @@ print(me.current_focus())
 
 <div align="center">
   <p>
-     <a href="https://instagram.com/madhavp_14" target="_blank"> <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=White" alt="Instagram"/></a>
-    <a href="https://www.linkedin.com/in/madhav-p-156b9b290" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://instagram.com/madhavp_14" target="_blank"> <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=White" alt="Instagram"/></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/madhavp14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &nbsp;
     <a href="https://leetcode.com/u/madhavp_14/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
     &nbsp;
