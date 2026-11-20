@@ -20,11 +20,12 @@
 class Madhav:
     def __init__(self):
         self.name        = "Madhav P"
+        self.age         =  21
         self.role        = "Software Engineer"
         self.education   = "BCA '26"
         self.focus       = ["Backend Architecture", "Data Pipelines", "System Design"]
-        self.languages   = ["Python", "JavaScript", "TypeScript", "SQL", "C/C++"]
-        self.frameworks  = ["FastAPI", "Django", "Flask", "React", "Node.js"]
+        self.languages   = ["Python", "JavaScript", "TypeScript", "SQL", "Java"]
+        self.frameworks  = ["FastAPI", "Django", "Flask", "React.js", "Next.js", "Node.js"]
         self.databases   = ["PostgreSQL", "MongoDB", "MySQL", "Supabase", "Firebase"]
         self.cloud_tools = ["Docker", "Git", "GitHub Actions", "Linux", "AWS"]
         self.platforms   = ["LeetCode", "HackerRank", "GFG"]
