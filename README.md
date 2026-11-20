@@ -196,7 +196,6 @@ print(me.current_focus())
     &nbsp;
     <a href="https://leetcode.com/u/madhavp_14/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
     &nbsp;
-    &nbsp;
     <a href="mailto:madhavp2023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     &nbsp;
     <a href="https://x.com/madhavp_14" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
