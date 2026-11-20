@@ -159,7 +159,7 @@ print(me.current_focus())
 
 ---
 
-### 📝 [React Task Orchestrator](https://github.com/madhavp14/React.Js-ToDo-App)
+### 📝 [React.js - ToDo Application](https://github.com/madhavp14/React.Js-ToDo-App)
 > High-throughput client-side task workspace engineered with modern React 19, zero-lag local persistence, and responsive scheduling.
 - **Architecture**: Modular component tree with custom state hooks, search filtering, and persistent localStorage schema.
 - **Tech Stack**: `React 19` • `Vite 7` • `Bootstrap 5` • `SCSS`
@@ -192,9 +192,9 @@ print(me.current_focus())
     &nbsp;
     <a href="https://www.linkedin.com/in/madhavp14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &nbsp;
+     <a href="https://www.hackerrank.com/profile/madhavp_14" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>     </a>
     <a href="https://leetcode.com/u/madhavp_14/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
     &nbsp;
-    <a href="https://www.hackerrank.com/profile/madhavp_14" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
     &nbsp;
     <a href="mailto:madhavp2023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     &nbsp;
