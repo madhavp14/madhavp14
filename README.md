@@ -40,12 +40,6 @@ me = Madhav()
 print(me.current_focus())
 ```
 
-- 🚀 **Building**: Scalable backend services, robust REST APIs, and automated data pipelines.
-- 💡 **Mindset**: Clean code, defensive design, low-latency execution, and simple architectures that scale.
-- 🎯 **Current Focus**: Mastering production-scale Python architectures, asynchronous systems, and modern cloud deployment.
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
