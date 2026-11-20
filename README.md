@@ -43,7 +43,6 @@ print(me.current_focus())
 - 🚀 **Building**: Scalable backend services, robust REST APIs, and automated data pipelines.
 - 💡 **Mindset**: Clean code, defensive design, low-latency execution, and simple architectures that scale.
 - 🎯 **Current Focus**: Mastering production-scale Python architectures, asynchronous systems, and modern cloud deployment.
-- 💬 **Ask me about**: Python internals, API design, database schemas, and backend architecture.
 
 ---
 
@@ -178,7 +177,7 @@ print(me.current_focus())
 ## ✍️ Engineering Philosophy
 
 <div align="center">
-  <p><em>"Simplicity is prerequisite for reliability. Measure twice, architect cleanly, test thoroughly, and ship with confidence."</em></p>
+  <p><em>"Simplicity is a prerequisite for reliability. Measure twice, architect cleanly, test thoroughly, and ship with confidence."</em></p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
@@ -192,7 +191,7 @@ print(me.current_focus())
     &nbsp;
     <a href="https://www.linkedin.com/in/madhavp14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &nbsp;
-    <a href="https://www.hackerrank.com/profile/madhavp_14" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>      </a>
+    <a href="https://www.hackerrank.com/profile/madhavp_14" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
     &nbsp;
     <a href="https://leetcode.com/u/madhavp_14/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
     &nbsp;
