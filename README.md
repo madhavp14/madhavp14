@@ -192,7 +192,8 @@ print(me.current_focus())
     &nbsp;
     <a href="https://www.linkedin.com/in/madhavp14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &nbsp;
-     <a href="https://www.hackerrank.com/profile/madhavp_14" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>     </a>
+    <a href="https://www.hackerrank.com/profile/madhavp_14" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>      </a>
+    &nbsp;
     <a href="https://leetcode.com/u/madhavp_14/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
     &nbsp;
     &nbsp;
