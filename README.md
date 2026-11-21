@@ -2,7 +2,7 @@
   <img src="./images/hero_banner.svg" width="100%" alt="Madhav P - Software Engineer"/>
   <br><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%E2%9A%A1;Architecting+High-Throughput+%26+Resilient+Systems;Building+Distributed+Data+Pipelines+%7C+APIs+%F0%9F%93%8A;Engineering+Excellence+Through+Precision+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Designing%2C+Developing+%26+ProblemSolving;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
   <br>
   <p>
