@@ -161,7 +161,6 @@ print(me.current_focus())
 
 ### 🎮 [Algorithmic Tic-Tac-Toe State Engine](https://github.com/madhavp14/Tic-Tac-Toe)
 > Zero-dependency game state engine featuring algorithmic single-player heuristics and interactive DOM event management.
-- **Architecture**: Coordinate matrix evaluation, stateful turn verification, and responsive CSS grid rendering.
 - **Tech Stack**: `JavaScript (ES6+)` • `HTML5` • `CSS3`
 - **Links**: [📁 Source Repository](https://github.com/madhavp14/Tic-Tac-Toe)
 
