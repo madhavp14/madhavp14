@@ -155,7 +155,6 @@ print(me.current_focus())
 
 ### 📝 [React.js - ToDo Application](https://github.com/madhavp14/React.Js-ToDo-App)
 > High-throughput client-side task workspace engineered with modern React 19, zero-lag local persistence, and responsive scheduling.
-- **Architecture**: Modular component tree with custom state hooks, search filtering, and persistent localStorage schema.
 - **Tech Stack**: `React 19` • `Vite 7` • `Bootstrap 5` • `SCSS`
 - **Links**: [📁 Source Repository](https://github.com/madhavp14/React.Js-ToDo-App) &nbsp;|&nbsp; [🌐 Live Application](https://to-do-app-madhavp.vercel.app)
 
