@@ -148,7 +148,7 @@ print(me.current_focus())
 ### 🤖 [FinSathi — LLM Financial Advisory Engine](https://github.com/madhavp14/LLM_Powered-Financial-Service-ChatBot)
 > An intelligent financial query system built with dual-provider LLM orchestration (HuggingFace + OpenAI) for high availability, verifiable citations, and streaming responses.
 - **Tech Stack**: `Python` • `Flask` • `React` • `Tailwind CSS` • `OpenAI SDK` • `HuggingFace API`
-- **Links**: [📁 Source Repository](https://github.com/madhavp14/LLM_Powered-Financial-Service-ChatBot) &nbsp;|&nbsp; [🌐 Live Application](https://finsathi-chatbot-madhavp.vercel.app)
+- [🌐 Live Application](https://finsathi-chatbot-madhavp.vercel.app)
 
 ---
 
