@@ -111,7 +111,6 @@ print(me.current_focus())
 </div>
 
 <br>
-
 <!-- <div align="center">
   <!-- 1. Activity Graph (Full Width) -->
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavp14&theme=highcontrast&bg_color=000000&color=C8FF00&line=2C682C&point=00FF04&area=true" width="95%" alt="Madhav's GitHub Activity Graph" /> -->
